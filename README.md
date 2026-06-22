@@ -34,3 +34,9 @@ The output stage will need protection appropriate for a motorcycle electrical sy
 This repository remains a separate submodule so its eventual firmware, hardware revision, and legal/safety decisions have an independent history. It should use `MotorcycleProtocol` only if a real bus-connected use case is confirmed.
 
 There is currently no build command or automated test suite.
+
+## License
+
+This project is source-available under the [PolyForm Noncommercial License 1.0.0](LICENSE). Noncommercial study, experimentation, modification, and sharing are permitted under its terms. Commercial use requires a separate written license from NoX2SR. See [NOTICE](NOTICE).
+
+Third-party components remain under their own licenses.
